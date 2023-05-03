@@ -1,0 +1,59 @@
+ol { background-color: yellow;
+}
+
+.par {color: green;
+}
+
+.impar {text-transform: uppercase;
+}
+
+h1,h2,h3{
+    color: red;
+}
+
+h1,h2,h3 em{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+
+li{
+    font-size: 20px;
+}
+
+li em{
+    font-weight: bold;
+}
+
+.linguagem{
+    color: blue;
+}
+
+.java{
+    background-color: pink;
+}
+
+.site :hover{
+    font-weight: bold;
+}
+
+.stack :hover{
+    color: blue;
+}
+
+.w3 :hover{
+    color: pink;
+}
+
+.mdn :hover{
+    color: black;
+
+}
+
+.dev :hover{
+    color: grey;
+}
+
+.app :hover{
+    color: green;
+}
